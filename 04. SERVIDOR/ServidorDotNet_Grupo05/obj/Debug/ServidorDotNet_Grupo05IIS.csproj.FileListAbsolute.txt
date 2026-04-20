@@ -1,0 +1,7 @@
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\bin\ServidorDotNet_Grupo05IIS.dll.config
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\bin\ServidorDotNet_Grupo05IIS.dll
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\bin\ServidorDotNet_Grupo05IIS.pdb
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\obj\Debug\ServidorDotNet_Grupo05IIS.csproj.AssemblyReference.cache
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\obj\Debug\ServidorDotNet_Grupo05IIS.csproj.CoreCompileInputs.cache
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\obj\Debug\ServidorDotNet_Grupo05IIS.dll
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNet_Grupo05IIS\obj\Debug\ServidorDotNet_Grupo05IIS.pdb
