@@ -1,0 +1,114 @@
+@page "/"
+@rendermode InteractiveServer
+@inject ec.edu.monster.Servicios.EstadoAplicacion EstadoApp
+@inject ec.edu.monster.Servicios.FabricaEstrategiaBackend Fabrica
+
+<h3>Conversor de Unidades</h3>
+<div class="alert alert-info">Backend Activo: <strong>@EstadoApp.BackendActual.ToString()</strong></div>
+
+<div class="row" style="max-width: 800px;">
+    <div class="col-md-5 mb-4">
+        <div class="card p-3">
+            <h5>1. Autenticación</h5>
+            <div class="mb-2">
+                <label>Usuario:</label>
+                <input type="text" class="form-control" @bind="usuario" />
+            </div>
+            <div class="mb-2">
+                <label>Contraseña:</label>
+                <input type="password" class="form-control" @bind="contrasenia" />
+            </div>
+            <button class="btn btn-secondary w-100" @onclick="HacerLogin">Obtener Token</button>
+            
+            @if (!string.IsNullOrEmpty(EstadoApp.TokenActual))
+            {
+                <div class="alert alert-success mt-2 p-1 text-center" style="font-size: 0.8em; overflow-wrap: break-word;">
+                    Token obtenido correctamente
+                </div>
+            }
+            @if (!string.IsNullOrEmpty(mensajeErrorLogin))
+            {
+                <div class="alert alert-danger mt-2 p-1 text-center" style="font-size: 0.8em;">@mensajeErrorLogin</div>
+            }
+        </div>
+    </div>
+
+    <div class="col-md-7">
+        <div class="card p-3">
+            <h5>2. Conversión</h5>
+            <div class="mb-2">
+                <label>Magnitud:</label>
+                <select class="form-select" @bind="peticion.TipoConversion">
+                    <option value="Longitud">Longitud</option>
+                    <option value="Masa">Masa</option>
+                    <option value="Temperatura">Temperatura</option>
+                </select>
+            </div>
+            <div class="row mb-2">
+                <div class="col">
+                    <label>Origen (Ej: METRO):</label>
+                    <input type="text" class="form-control" @bind="peticion.UnidadOrigen" />
+                </div>
+                <div class="col">
+                    <label>Destino (Ej: MILIMETRO):</label>
+                    <input type="text" class="form-control" @bind="peticion.UnidadDestino" />
+                </div>
+            </div>
+            <div class="mb-3">
+                <label>Valor a convertir:</label>
+                <input type="number" class="form-control" @bind="peticion.Valor" />
+            </div>
+            <button class="btn btn-primary w-100" @onclick="RealizarConversion" disabled="@string.IsNullOrEmpty(EstadoApp.TokenActual)">
+                Convertir
+            </button>
+            
+            @if (resultado > 0)
+            {
+                <div class="alert alert-success mt-3 text-center fs-4"><strong>@resultado</strong></div>
+            }
+            @if (!string.IsNullOrEmpty(mensajeErrorConversion))
+            {
+                <div class="alert alert-danger mt-3 p-2 text-center" style="font-size: 0.9em;">@mensajeErrorConversion</div>
+            }
+        </div>
+    </div>
+</div>
+
+@code {
+    private string usuario = "Monster";
+    private string contrasenia = "Monster9";
+    private string mensajeErrorLogin = "";
+    
+    private PeticionConversion peticion = new PeticionConversion { UnidadOrigen = "METRO", UnidadDestino = "MILIMETRO", Valor = 5 };
+    private double resultado = 0;
+    private string mensajeErrorConversion = "";
+
+    private async Task HacerLogin()
+    {
+        mensajeErrorLogin = "";
+        try
+        {
+            var adaptadorAuth = Fabrica.ObtenerAdaptadorAutenticacion(EstadoApp.BackendActual);
+            EstadoApp.TokenActual = await adaptadorAuth.IniciarSesionAsync(usuario, contrasenia);
+        }
+        catch (Exception ex)
+        {
+            mensajeErrorLogin = ex.Message;
+        }
+    }
+
+    private async Task RealizarConversion()
+    {
+        mensajeErrorConversion = "";
+        resultado = 0;
+        try
+        {
+            var adaptadorConv = Fabrica.ObtenerAdaptadorConversion(EstadoApp.BackendActual);
+            resultado = await adaptadorConv.ConvertirAsync(peticion, EstadoApp.TokenActual);
+        }
+        catch (Exception ex)
+        {
+            mensajeErrorConversion = ex.Message;
+        }
+    }
+}
