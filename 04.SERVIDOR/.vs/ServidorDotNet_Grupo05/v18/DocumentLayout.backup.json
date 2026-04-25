@@ -11,6 +11,22 @@
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\conversorlongitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\utilidades\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\utilidades\\conversormasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\conversormasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\mapeadores\\unidadmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\mapeadores\\unidadmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\seguridad\\tokenheaderendpointbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\seguridad\\tokenheaderendpointbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\seguridad\\tokenheaderdispatchinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\seguridad\\tokenheaderdispatchinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,8 +43,12 @@
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\servicios\\servicioconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\seguridad\\tokenheaderendpointbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\seguridad\\tokenheaderendpointbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\servicios\\iwsconversorunidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,18 +63,6 @@
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\enums\\unidadmasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\mapeadores\\unidadmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\mapeadores\\unidadmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\utilidades\\conversormasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\conversormasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\utilidades\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\utilidades\\iconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\iconversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -66,20 +74,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TokenHeaderDispatchInspector.cs",
-              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
-              "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
-              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
-              "RelativeToolTip": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA7wDoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T15:12:45.368Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -88,38 +84,75 @@
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\WSConversorUnidades.svc.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\WSConversorUnidades.svc.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\WSConversorUnidades.svc.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T14:20:05.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\Web.config",
+              "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\Web.config",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\Web.config",
+              "RelativeToolTip": "ServidorDotNet_Grupo05\\Web.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-23T06:01:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ServidorDotNet_Grupo05\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:02:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenHeaderDispatchInspector.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
+              "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
+              "RelativeToolTip": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderDispatchInspector.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:12:45.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "TokenHeaderBehaviorExtensionElement.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderBehaviorExtensionElement.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderBehaviorExtensionElement.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderBehaviorExtensionElement.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderBehaviorExtensionElement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:12:43.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "AdministradorTokens.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\AdministradorTokens.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\seguridad\\AdministradorTokens.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\AdministradorTokens.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\seguridad\\AdministradorTokens.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:12:39.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "IWSConversorUnidades.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\servicios\\IWSConversorUnidades.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\servicios\\IWSConversorUnidades.cs",
@@ -131,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UnidadLongitud.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\enums\\UnidadLongitud.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\utilidades\\enums\\UnidadLongitud.cs",
@@ -149,14 +182,14 @@
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\utilidades\\ConversorLongitud.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\ConversorLongitud.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\utilidades\\ConversorLongitud.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T16:11:16.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "ConversorMasa.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\ConversorMasa.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\utilidades\\ConversorMasa.cs",
@@ -168,19 +201,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "UnidadMapper.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\mapeadores\\UnidadMapper.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\mapeadores\\UnidadMapper.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\mapeadores\\UnidadMapper.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\mapeadores\\UnidadMapper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:12:58.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "UnidadMasa.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\enums\\UnidadMasa.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\utilidades\\enums\\UnidadMasa.cs",
@@ -192,43 +225,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "TokenHeaderEndpointBehavior.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderEndpointBehavior.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderEndpointBehavior.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\seguridad\\TokenHeaderEndpointBehavior.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\seguridad\\TokenHeaderEndpointBehavior.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:12:54.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ServicioConversor.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\servicios\\ServicioConversor.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\servicios\\ServicioConversor.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\servicios\\ServicioConversor.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\servicios\\ServicioConversor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T14:18:39.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "ConversorTemperatura.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\ConversorTemperatura.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\utilidades\\ConversorTemperatura.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\ConversorTemperatura.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\utilidades\\ConversorTemperatura.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:08:22.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IConversor.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\utilidades\\IConversor.cs",
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\utilidades\\IConversor.cs",

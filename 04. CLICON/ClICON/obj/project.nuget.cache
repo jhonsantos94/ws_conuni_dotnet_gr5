@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "957Lg58gP8s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.objectpool\\10.0.0\\microsoft.extensions.objectpool.10.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.identitymodel.protocols.wstrust\\6.8.0\\microsoft.identitymodel.protocols.wstrust.6.8.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.identitymodel.tokens.saml\\8.14.0\\microsoft.identitymodel.tokens.saml.8.14.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\microsoft.identitymodel.xml\\8.14.0\\microsoft.identitymodel.xml.8.14.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.0\\system.security.cryptography.pkcs.10.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.security.cryptography.xml\\10.0.0\\system.security.cryptography.xml.10.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.duplex\\6.0.0\\system.servicemodel.duplex.6.0.0.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.federation\\10.0.652802\\system.servicemodel.federation.10.0.652802.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.http\\10.0.652802\\system.servicemodel.http.10.0.652802.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.netframingbase\\10.0.652802\\system.servicemodel.netframingbase.10.0.652802.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.nettcp\\10.0.652802\\system.servicemodel.nettcp.10.0.652802.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.primitives\\10.0.652802\\system.servicemodel.primitives.10.0.652802.nupkg.sha512",
+    "C:\\Users\\ariel\\.nuget\\packages\\system.servicemodel.security\\6.0.0\\system.servicemodel.security.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"System.Security.Cryptography.Xml\" 10.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
+      "projectPath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "El paquete \"System.Security.Cryptography.Xml\" 10.0.0 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
+      "projectPath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
+      "libraryId": "System.Security.Cryptography.Xml",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.Cliente Escritorio\SistemaConversorUI\SistemaConversorUI.Shared\wwwroot\exampleJsInterop.js
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.Cliente Escritorio\SistemaConversorUI\SistemaConversorUI.Shared\wwwroot\css\espe-styles.css

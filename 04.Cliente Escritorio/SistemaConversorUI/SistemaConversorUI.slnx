@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../../04.Cliente Movil/SistemaConversorUI.Maui/SistemaConversorUI.Maui.csproj" />
-  <Project Path="../../04.Cliente web/SistemaConversorUI.Web/SistemaConversorUI.Web.Client/SistemaConversorUI.Web.Client.csproj" />
-  <Project Path="../../04.Cliente web/SistemaConversorUI.Web/SistemaConversorUI.Web/SistemaConversorUI.Web.csproj" />
-  <Project Path="SistemaConversorUI.Shared/SistemaConversorUI.Shared.csproj" />
-</Solution>

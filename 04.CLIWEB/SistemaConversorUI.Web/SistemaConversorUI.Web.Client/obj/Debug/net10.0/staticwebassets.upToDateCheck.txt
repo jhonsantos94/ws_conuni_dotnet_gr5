@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\wwwroot\appsettings.Development.json
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\wwwroot\appsettings.json
