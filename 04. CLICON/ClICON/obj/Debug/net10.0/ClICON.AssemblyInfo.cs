@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClICON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3349910bdd922c8aa6a90e449771fcec51ba749e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae0ac5ceb20f5b0d896811ac75262e82f047f2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClICON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClICON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

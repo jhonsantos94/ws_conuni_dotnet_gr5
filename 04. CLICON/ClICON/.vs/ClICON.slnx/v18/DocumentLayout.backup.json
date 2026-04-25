@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\controladores\\appcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:controladores\\appcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClICON.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\vistas\\consolavista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:vistas\\consolavista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\modelos\\conversormodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:modelos\\conversormodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\connected services\\wsmonsterreference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:connected services\\wsmonsterreference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\connected services\\wsmonsterreference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:connected services\\wsmonsterreference\\connectedservice.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04. clicon\\clicon\\clicon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80AC49D1-105B-F1E3-1781-965D4CEF98D1}|ClICON.csproj|solutionrelative:clicon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Connected Services\\WSMonsterReference\\Reference.cs",
+              "RelativeDocumentMoniker": "Connected Services\\WSMonsterReference\\Reference.cs",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Connected Services\\WSMonsterReference\\Reference.cs",
+              "RelativeToolTip": "Connected Services\\WSMonsterReference\\Reference.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:44:20.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectedService.json",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Connected Services\\WSMonsterReference\\ConnectedService.json",
+              "RelativeDocumentMoniker": "Connected Services\\WSMonsterReference\\ConnectedService.json",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Connected Services\\WSMonsterReference\\ConnectedService.json",
+              "RelativeToolTip": "Connected Services\\WSMonsterReference\\ConnectedService.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T17:44:08.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T04:19:54.321Z",
+              "WhenOpened": "2026-04-25T05:09:35.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppControlador.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Controladores\\AppControlador.cs",
+              "RelativeDocumentMoniker": "Controladores\\AppControlador.cs",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Controladores\\AppControlador.cs",
+              "RelativeToolTip": "Controladores\\AppControlador.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwCkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:09:32.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ConsolaVista.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Vistas\\ConsolaVista.cs",
+              "RelativeDocumentMoniker": "Vistas\\ConsolaVista.cs",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Vistas\\ConsolaVista.cs",
+              "RelativeToolTip": "Vistas\\ConsolaVista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:09:08.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversorModelo.cs",
+              "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Modelos\\ConversorModelo.cs",
+              "RelativeDocumentMoniker": "Modelos\\ConversorModelo.cs",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\Modelos\\ConversorModelo.cs",
+              "RelativeToolTip": "Modelos\\ConversorModelo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T05:07:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ClICON.csproj",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
               "RelativeDocumentMoniker": "ClICON.csproj",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04. CLICON\\ClICON\\ClICON.csproj",
               "RelativeToolTip": "ClICON.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-25T04:18:51.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-25T04:42:34.851Z"
             }
           ]
         }

@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\wsconversorunidades.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.servidor\\servidordotnet_grupo05\\wsconversorunidades.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\wsconversorunidades.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.servidor\\servidordotnet_grupo05\\utilidades\\conversorlongitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\servidordotnet_grupo05\\utilidades\\conversorlongitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B736E0D-28AA-4B22-B4A7-40FC0B11A993}|ServidorDotNet_Grupo05\\ServidorDotNet_Grupo05.csproj|solutionrelative:servidordotnet_grupo05\\utilidades\\conversorlongitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -84,7 +84,7 @@
               "RelativeDocumentMoniker": "ServidorDotNet_Grupo05\\WSConversorUnidades.svc.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.SERVIDOR\\ServidorDotNet_Grupo05\\WSConversorUnidades.svc.cs",
               "RelativeToolTip": "ServidorDotNet_Grupo05\\WSConversorUnidades.svc.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA/wDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T14:20:05.232Z",
               "EditorCaption": ""
@@ -184,8 +184,7 @@
               "RelativeToolTip": "ServidorDotNet_Grupo05\\utilidades\\ConversorLongitud.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T16:11:16.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T16:11:16.796Z"
             },
             {
               "$type": "Document",

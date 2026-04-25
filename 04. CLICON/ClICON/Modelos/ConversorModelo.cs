@@ -29,13 +29,13 @@ namespace ClICON.Modelos
         {
             try
             {
-                // El login no requiere cabecera según tu TokenHeaderDispatchInspector
+                // El login no requiere cabecera según el TokenHeaderDispatchInspector
                 Token = await _clienteSoap.loginAsync(usuario, contrasenia);
                 return !string.IsNullOrWhiteSpace(Token);
             }
             catch (FaultException ex)
             {
-                // Atrapa el throw new FaultException("Credenciales incorrectas") de tu backend
+                // Atrapa el throw new FaultException("Credenciales incorrectas") del backend
                 Console.WriteLine($"[Servidor rechazó la petición]: {ex.Message}");
                 return false;
             }

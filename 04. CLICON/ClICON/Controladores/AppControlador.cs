@@ -19,7 +19,8 @@ namespace ClICON.Controladores
 
         public async Task IniciarAppAsync()
         {
-            _vista.MostrarMensaje("=== CLIENTE CONVERSOR MONSTER (WCF) ===");
+            _vista.MensajeBienvenida();
+            _vista.MostrarMensaje("=== SISTEMA DE CONVERSION DE UNIDADES - CLIENTE CONSOLA GR5 ===");
 
             bool autenticado = false;
             while (!autenticado)
@@ -42,24 +43,35 @@ namespace ClICON.Controladores
 
                 switch (opcion)
                 {
-                    case "1": await EjecutarConversionAsync("Longitud"); break;
-                    case "2": await EjecutarConversionAsync("Masa"); break;
-                    case "3": await EjecutarConversionAsync("Temperatura"); break;
+                    case "1":
+                        await ProcesarConversionAsync("Longitud", _vista.UNIDADES_LONGITUD);
+                        break;
+                    case "2":
+                        await ProcesarConversionAsync("Masa", _vista.UNIDADES_MASA);
+                        break;
+                    case "3":
+                        await ProcesarConversionAsync("Temperatura", _vista.UNIDADES_TEMPERATURA);
+                        break;
                     case "4":
                         salir = true;
                         _vista.MostrarMensaje("¡Hasta luego!");
                         break;
-                    default: _vista.MostrarError("Opción no válida."); break;
+                    default:
+                        _vista.MostrarError("Opción no válida.");
+                        break;
                 }
             }
         }
 
-        private async Task EjecutarConversionAsync(string tipo)
+        private async Task ProcesarConversionAsync(string tipo, string[] unidadesPermitidas)
         {
-            _vista.MostrarMensaje($"\n--- Conversión de {tipo} ---");
+            _vista.MostrarMensaje($"\n--- Conversión de {tipo.ToUpper()} ---");
+
             double valor = _vista.PedirNumero("Ingrese el valor a convertir");
-            string origen = _vista.PedirDato("Unidad de origen (ej. METRO, MILIMETRO)").ToUpper();
-            string destino = _vista.PedirDato("Unidad de destino").ToUpper();
+
+            // Usamos la nueva función de la vista pasándole el array
+            string origen = _vista.PedirUnidadDeLista("inicial", unidadesPermitidas);
+            string destino = _vista.PedirUnidadDeLista("final", unidadesPermitidas);
 
             try
             {
@@ -72,11 +84,11 @@ namespace ClICON.Controladores
                 else if (tipo == "Temperatura")
                     resultado = await _modelo.ConvertirTemperaturaAsync(valor, origen, destino);
 
-                _vista.MostrarExito($"Resultado: {valor} {origen} = {resultado} {destino}");
+                string mensaje = string.Format("Resultado: {0:F6} {1} = {2:F6} {3}", valor, origen, resultado, destino);
+                _vista.MostrarExito(mensaje);
             }
             catch (FaultException ex)
             {
-                // Captura excepciones de negocio o validación del token devueltas por WCF
                 _vista.MostrarError($"Error del servidor: {ex.Message}");
             }
             catch (Exception ex)
