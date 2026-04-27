@@ -8,6 +8,9 @@ namespace ec.edu.monster.Servicios
         [OperationContract(Name = "login")]
         string Login(string usuario, string contrasenia);
 
+        [OperationContract(Name = "cambiarContrasenia")]
+        bool CambiarContrasenia(string contraseniaActual, string nuevaContrasenia);
+
         [OperationContract(Name = "convertirLongitud")]
         double ConvertirLongitud(double valor, string unidadInicial, string unidadFinal);
 
