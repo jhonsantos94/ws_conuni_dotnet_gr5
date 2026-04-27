@@ -1,8 +1,0 @@
-<api type="release" assembly-name="SistemaConversorUI.Maui" mvid="ce1cca0f12e2441c8fccfe634967c11f">
-  <module assembly-name="SistemaConversorUI.Maui" mvid="ce1cca0f12e2441c8fccfe634967c11f" mvid-bytes="D8oczuISHESPzP5jSWfBHw==">
-    <types-scratch>
-      <entry key="crc647ff6a91323cfcbbf/MainActivity" java-name="crc647ff6a91323cfcbbf/MainActivity" managed-type-name="SistemaConversorUI.Maui.MainActivity" token="33554440" />
-      <entry key="crc647ff6a91323cfcbbf/MainApplication" java-name="crc647ff6a91323cfcbbf/MainApplication" managed-type-name="SistemaConversorUI.Maui.MainApplication" token="33554441" />
-    </types-scratch>
-  </module>
-</api>
