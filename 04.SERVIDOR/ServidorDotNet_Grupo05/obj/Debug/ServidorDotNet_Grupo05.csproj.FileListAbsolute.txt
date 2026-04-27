@@ -19,3 +19,9 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debu
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.csproj.CoreCompileInputs.cache
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.dll
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.pdb
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04.SERVIDOR\ServidorDotNet_Grupo05\bin\ServidorDotNet_Grupo05.dll
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04.SERVIDOR\ServidorDotNet_Grupo05\bin\ServidorDotNet_Grupo05.pdb
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.csproj.AssemblyReference.cache
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.csproj.CoreCompileInputs.cache
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.dll
+C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04.SERVIDOR\ServidorDotNet_Grupo05\obj\Debug\ServidorDotNet_Grupo05.pdb

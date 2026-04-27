@@ -1,0 +1,37 @@
+@startuml
+title "DS_07_CAMBIAR_CONTRASENIA"
+autonumber
+
+actor "APLICACION" as Aplicacion
+participant "CONVERSION_VISTA" as ConversionVista
+participant "LOGIN_CONTROLADOR" as LoginControlador
+participant "CLIENTE_SOAP_CONVERSOR" as ClienteSoap
+participant "IWSCONVERSORUNIDADES (CONTRATO SOAP)" as Contrato
+
+Aplicacion -> ConversionVista: Solicita cambiar contrasenia
+ConversionVista -> LoginControlador: cambiarContrasenia(actual, nueva)
+LoginControlador -> LoginControlador: valida campos no vacios
+
+LoginControlador -> ClienteSoap: cambiarContrasenia(tokenSesion, actual, nueva)
+ClienteSoap -> Contrato: verificar operacion disponible en WSDL
+
+alt operacion no existe en contrato actual
+    Contrato --> ClienteSoap: no existe cambiarContrasenia()
+    ClienteSoap --> LoginControlador: Fault "Operacion no disponible en WS SOAP"
+    LoginControlador --> ConversionVista: mostrar mensaje de funcionalidad no implementada
+else operacion disponible (escenario futuro)
+    Contrato --> ClienteSoap: cambiarContrasenia(...)
+    ClienteSoap --> LoginControlador: confirmacion
+    LoginControlador --> ConversionVista: mostrar exito
+end
+
+note right of Contrato
+El servicio real en 04.SERVIDOR expone:
+- login
+- convertirLongitud
+- convertirMasa
+- convertirTemperatura
+end note
+
+@enduml
+

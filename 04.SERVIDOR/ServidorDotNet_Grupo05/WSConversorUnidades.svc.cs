@@ -1,53 +1,49 @@
 using System.ServiceModel;
-using ec.edu.monster.Mapeadores;
-using ec.edu.monster.Seguridad;
+using ec.edu.monster.Controladores;
 using ec.edu.monster.Servicios;
-using ec.edu.monster.Utilidades;
-using ec.edu.monster.Utilidades.Enums;
 
 namespace ec.edu.monster
 {
     [ServiceBehavior(InstanceContextMode = InstanceContextMode.PerCall)]
     public class WSConversorUnidades : IWSConversorUnidades
     {
-        private readonly ServicioConversor<UnidadLongitud> servicioLongitud =
-            new ServicioConversor<UnidadLongitud>(new ConversorLongitud());
-
-        private readonly ServicioConversor<UnidadMasa> servicioMasa =
-            new ServicioConversor<UnidadMasa>(new ConversorMasa());
-
-        private readonly ServicioConversor<UnidadTemperatura> servicioTemperatura =
-            new ServicioConversor<UnidadTemperatura>(new ConversorTemperatura());
+        private readonly SeguridadControlador seguridadControlador = new SeguridadControlador();
+        private readonly ConversionesControlador conversionesControlador = new ConversionesControlador();
 
         public string Login(string usuario, string contrasenia)
         {
-            if (usuario == "Monster" && contrasenia == "Monster9")
+            var token = seguridadControlador.Login(usuario, contrasenia);
+            if (!string.IsNullOrWhiteSpace(token))
             {
-                return AdministradorTokens.GenerarToken();
+                return token;
             }
 
             throw new FaultException("Credenciales incorrectas");
         }
 
+        public bool CambiarContrasenia(string contraseniaActual, string nuevaContrasenia)
+        {
+            if (seguridadControlador.CambiarContrasenia(contraseniaActual, nuevaContrasenia))
+            {
+                return true;
+            }
+
+            throw new FaultException("No se pudo cambiar la contrasenia");
+        }
+
         public double ConvertirLongitud(double valor, string unidadInicial, string unidadFinal)
         {
-            var origen = UnidadMapper.ToLongitud(unidadInicial);
-            var destino = UnidadMapper.ToLongitud(unidadFinal);
-            return servicioLongitud.Convertir(valor, origen, destino);
+            return conversionesControlador.ConvertirLongitud(valor, unidadInicial, unidadFinal);
         }
 
         public double ConvertirMasa(double valor, string unidadInicial, string unidadFinal)
         {
-            var origen = UnidadMapper.ToMasa(unidadInicial);
-            var destino = UnidadMapper.ToMasa(unidadFinal);
-            return servicioMasa.Convertir(valor, origen, destino);
+            return conversionesControlador.ConvertirMasa(valor, unidadInicial, unidadFinal);
         }
 
         public double ConvertirTemperatura(double valor, string unidadInicial, string unidadFinal)
         {
-            var origen = UnidadMapper.ToTemperatura(unidadInicial);
-            var destino = UnidadMapper.ToTemperatura(unidadFinal);
-            return servicioTemperatura.Convertir(valor, origen, destino);
+            return conversionesControlador.ConvertirTemperatura(valor, unidadInicial, unidadFinal);
         }
     }
 }

@@ -48,8 +48,11 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="controladores\ConversionesControlador.cs" />
+    <Compile Include="controladores\SeguridadControlador.cs" />
     <Compile Include="mapeadores\UnidadMapper.cs" />
     <Compile Include="seguridad\AdministradorTokens.cs" />
+    <Compile Include="seguridad\AuthService.cs" />
     <Compile Include="seguridad\TokenHeaderBehaviorExtensionElement.cs" />
     <Compile Include="seguridad\TokenHeaderDispatchInspector.cs" />
     <Compile Include="seguridad\TokenHeaderEndpointBehavior.cs" />
