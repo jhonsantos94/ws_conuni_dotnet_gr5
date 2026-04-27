@@ -61,4 +61,9 @@ public class AdaptadorAutenticacionDotNetSoap : IAdaptadorAutenticacion
 
         return resultElement.Value;
     }
+
+    public Task<string> CambiarContraseniaAsync(string contraseniaActual, string contraseniaNueva, string token)
+    {
+        throw new NotImplementedException();
+    }
 }

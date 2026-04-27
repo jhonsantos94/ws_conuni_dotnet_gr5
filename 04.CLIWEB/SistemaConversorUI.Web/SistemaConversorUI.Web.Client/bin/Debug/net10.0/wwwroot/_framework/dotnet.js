@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "SistemaConversorUI.Web.Client",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-feb/9rWVDl2MOF7s67dzNpGo9gIzau+aAZKaGI0rABo=",
+    "hash": "sha256-yM3ZaUZcnywGFBCFgC9uzDKcZAEyKP6T0HEPU0K5Be8=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.3qf6w265iu.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "SistemaConversorUI.Web.Client.wasm",
-        "name": "SistemaConversorUI.Web.Client.2ihmio9g46.wasm",
-        "integrity": "sha256-GkRki9jDJz8gH4E/IrWiHugduc/vyrx5rq83WFyv6iY=",
+        "name": "SistemaConversorUI.Web.Client.6jvll47g46.wasm",
+        "integrity": "sha256-HjiiYCVWES3/TGOlx0SMZjExG+nJYEOmR3htFvZuAJ0=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "SistemaConversorUI.Web.Client.pdb",
-        "name": "SistemaConversorUI.Web.Client.nbbt7th87m.pdb",
-        "integrity": "sha256-k+lNWZx8QdU1AmAbbzjnHhzgw0M8CxfchrkAoA/aYEU=",
+        "name": "SistemaConversorUI.Web.Client.37wm5ep3wg.pdb",
+        "integrity": "sha256-f7kYuJ61N/J9QidwtRNSLZ4MmpbgCxwqgWzicvGttkY=",
         "cache": "force-cache"
       }
     ],

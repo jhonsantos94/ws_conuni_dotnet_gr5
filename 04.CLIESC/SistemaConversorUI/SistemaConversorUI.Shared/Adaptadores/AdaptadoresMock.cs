@@ -21,6 +21,11 @@ public class AdaptadorAutenticacionMock : IAdaptadorAutenticacion
 
         throw new Exception("Credenciales incorrectas (Mock)");
     }
+
+    public Task<string> CambiarContraseniaAsync(string contraseniaActual, string contraseniaNueva, string token)
+    {
+        throw new NotImplementedException();
+    }
 }
 
 // Mock para Conversión

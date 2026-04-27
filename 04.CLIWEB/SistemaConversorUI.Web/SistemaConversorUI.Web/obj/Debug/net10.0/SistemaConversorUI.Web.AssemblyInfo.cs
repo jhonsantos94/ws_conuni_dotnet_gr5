@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaConversorUI.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3349910bdd922c8aa6a90e449771fcec51ba749e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+217d7f486ab185c9b628c5364f345067eb5227d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaConversorUI.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaConversorUI.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

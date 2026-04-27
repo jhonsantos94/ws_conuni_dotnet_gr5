@@ -1,42 +1,11 @@
 @inherits LayoutComponentBase
-@inject ec.edu.monster.Servicios.EstadoAplicacion EstadoApp
 
-<div class="page">
-    <main>
-        <div class="top-row px-4" style="background-color: #f8f9fa; border-bottom: 1px solid #ddd; display: flex; align-items: center; justify-content: space-between;">
-            <strong style="color: #004d40;">ESPE - Conversor Universal</strong>
-            
-            <div>
-                <label for="backendSelect"><strong>Entorno: </strong></label>
-                <select id="backendSelect" @bind="BackendSeleccionado" style="padding: 5px; border-radius: 4px;">
-                    <option value="@TipoBackend.JavaSoap">Java SOAP (Payara)</option>
-                    <option value="@TipoBackend.JavaRest">Java RESTful</option>
-                    <option value="@TipoBackend.DotNetSoap">.NET SOAP</option>
-                    <option value="@TipoBackend.DotNetRest">.NET RESTful</option>
-                </select>
-            </div>
-        </div>
+<main>
+    @Body
+</main>
 
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
+<div id="blazor-error-ui">
+    Ha ocurrido un error no controlado.
+    <a href="" class="reload">Recargar</a>
+    <a class="dismiss">🗙</a>
 </div>
-
-@code {
-    private TipoBackend BackendSeleccionado
-    {
-        get => EstadoApp.BackendActual;
-        set => EstadoApp.EstablecerBackend(value);
-    }
-
-    protected override void OnInitialized()
-    {
-        EstadoApp.AlCambiar += StateHasChanged;
-    }
-
-    public void Dispose()
-    {
-        EstadoApp.AlCambiar -= StateHasChanged;
-    }
-}

@@ -1398,7 +1398,6 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\bin\Debug
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\bin\Debug\net10.0-ios\iossimulator-x64\SistemaConversorUI.Shared.dll
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\bin\Debug\net10.0-ios\iossimulator-x64\SistemaConversorUI.Shared.pdb
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\EmbeddedAttribute.cs
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\ValidatableTypeAttribute.cs
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\SistemaConversorUI.Maui.csproj.AssemblyReference.cache
@@ -1430,6 +1429,11 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauisplash.inputs
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449.png
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauisplash.stamp
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
@@ -1448,7 +1452,9 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauiimage.stamp
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauiimage.outputs
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\mauifont.stamp
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIMOV\SistemaConversorUI.Maui\obj\Debug\net10.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items

@@ -20,21 +20,21 @@ builder.Services.AddScoped<ec.edu.monster.Servicios.FabricaEstrategiaBackend>();
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion, ec.edu.monster.Adaptadores.AdaptadorAutenticacionJavaSoap>();
 // El Real (.NET SOAP):
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion, ec.edu.monster.Adaptadores.AdaptadorAutenticacionDotNetSoap>();
+builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion, ec.edu.monster.Adaptadores.AdaptadorAutenticacionDotNetRest>();
 
 // Los Mocks (Para los demás):
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion>(sp => new ec.edu.monster.Adaptadores.AdaptadorAutenticacionMock(ec.edu.monster.Modelos.TipoBackend.JavaRest));
-builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion>(sp => new ec.edu.monster.Adaptadores.AdaptadorAutenticacionMock(ec.edu.monster.Modelos.TipoBackend.DotNetRest));
-builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion>(sp => new ec.edu.monster.Adaptadores.AdaptadorAutenticacionMock(ec.edu.monster.Modelos.TipoBackend.DotNetRest));
+
 
 // 4. ADAPTADORES DE CONVERSIÓN
 // El Real (Java SOAP):
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion, ec.edu.monster.Adaptadores.AdaptadorConversionJavaSoap>();
 // El Real (.NET SOAP):
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion, ec.edu.monster.Adaptadores.AdaptadorConversionDotNetSoap>();
+
+builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion, ec.edu.monster.Adaptadores.AdaptadorConversionDotNetRest>();
 // Los Mocks:
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion>(sp => new ec.edu.monster.Adaptadores.AdaptadorConversionMock(ec.edu.monster.Modelos.TipoBackend.JavaRest));
-builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion>(sp => new ec.edu.monster.Adaptadores.AdaptadorConversionMock(ec.edu.monster.Modelos.TipoBackend.DotNetSoap));
-builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion>(sp => new ec.edu.monster.Adaptadores.AdaptadorConversionMock(ec.edu.monster.Modelos.TipoBackend.DotNetRest));
 
 // --- FIN DE LOS SERVICIOS ---
 var app = builder.Build();
