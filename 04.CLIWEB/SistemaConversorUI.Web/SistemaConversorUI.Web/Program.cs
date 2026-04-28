@@ -23,7 +23,7 @@ builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion, ec
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion, ec.edu.monster.Adaptadores.AdaptadorAutenticacionDotNetRest>();
 
 // Los Mocks (Para los demás):
-builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion>(sp => new ec.edu.monster.Adaptadores.AdaptadorAutenticacionMock(ec.edu.monster.Modelos.TipoBackend.JavaRest));
+builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorAutenticacion, ec.edu.monster.Adaptadores.AdaptadorAutenticacionJavaRest>();
 
 
 // 4. ADAPTADORES DE CONVERSIÓN
@@ -34,7 +34,7 @@ builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion, ec.ed
 
 builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion, ec.edu.monster.Adaptadores.AdaptadorConversionDotNetRest>();
 // Los Mocks:
-builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion>(sp => new ec.edu.monster.Adaptadores.AdaptadorConversionMock(ec.edu.monster.Modelos.TipoBackend.JavaRest));
+builder.Services.AddScoped<ec.edu.monster.Interfaces.IAdaptadorConversion, ec.edu.monster.Adaptadores.AdaptadorConversionJavaRest>();
 
 // --- FIN DE LOS SERVICIOS ---
 var app = builder.Build();

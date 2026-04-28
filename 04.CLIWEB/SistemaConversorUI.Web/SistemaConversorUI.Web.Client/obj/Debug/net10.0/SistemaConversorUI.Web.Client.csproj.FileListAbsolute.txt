@@ -3437,8 +3437,8 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaCon
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.6jvll47g46.wasm
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.37wm5ep3wg.pdb
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.tqa8r1lggt.wasm
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.3n12vsw0qf.pdb
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.js
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.roqc1km2rj.wasm.gz
@@ -3648,8 +3648,8 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaCon
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.6jvll47g46.wasm.gz
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.37wm5ep3wg.pdb.gz
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.tqa8r1lggt.wasm.gz
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\SistemaConversorUI.Web.Client.3n12vsw0qf.pdb.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\SistemaConversorUI.Web.Client.staticwebassets.runtime.json
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\bin\Debug\net10.0\SistemaConversorUI.Web.Client.staticwebassets.endpoints.json
@@ -4290,9 +4290,9 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaCon
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\octvvtpm9j-{0}-tjcz0u77k5-tjcz0u77k5.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\gonxxaoogu-{0}-tptq2av103-tptq2av103.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\7qi9bnt6ii-{0}-lfu7j35m59-lfu7j35m59.gz
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\v9ayob6u8e-{0}-6jvll47g46-6jvll47g46.gz
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\ro10elue1l-{0}-37wm5ep3wg-37wm5ep3wg.gz
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\p9ew6w2sjg-{0}-wr3d3mc5z7-wr3d3mc5z7.gz
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\v9ayob6u8e-{0}-tqa8r1lggt-tqa8r1lggt.gz
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\ro10elue1l-{0}-3n12vsw0qf-3n12vsw0qf.gz
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\compressed\p9ew6w2sjg-{0}-cw6pvck8bp-cw6pvck8bp.gz
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\staticwebassets.development.json

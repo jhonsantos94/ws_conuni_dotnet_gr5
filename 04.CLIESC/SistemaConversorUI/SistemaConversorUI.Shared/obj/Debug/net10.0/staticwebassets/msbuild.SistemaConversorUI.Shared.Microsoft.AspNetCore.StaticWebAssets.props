@@ -77,7 +77,7 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <FileLength>218</FileLength>
-      <LastWriteTime>Mon, 27 Apr 2026 04:43:08 GMT</LastWriteTime>
+      <LastWriteTime>Tue, 28 Apr 2026 01:42:38 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SistemaConversorUI.Shared.obqhrreahi.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
