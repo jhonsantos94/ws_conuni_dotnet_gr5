@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SistemaConversorUI.Maui.props" />
-</Project>
