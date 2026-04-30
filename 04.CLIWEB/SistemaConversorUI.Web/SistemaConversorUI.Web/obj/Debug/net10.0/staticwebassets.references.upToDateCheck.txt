@@ -190,3 +190,5 @@ C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIESC\SistemaConversorUI\SistemaConvers
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIESC\SistemaConversorUI\SistemaConversorUI.Shared\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIESC\SistemaConversorUI\SistemaConversorUI.Shared\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIWEB\SistemaConversorUI.Web\SistemaConversorUI.Web.Client\obj\Debug\net10.0\staticwebassets.build.json

@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="SistemaConversorUI.Maui" mvid="5f18897307f54fae979ba68e8b67e041">
+<api type="debug" assembly-name="SistemaConversorUI.Maui" mvid="0ec3e6c757c842b1bfaa942c2306aef6">
   <java-to-managed>
     <entry java-name="crc647ff6a91323cfcbbf/MainActivity" managed-name="SistemaConversorUI.Maui.MainActivity, SistemaConversorUI.Maui" managed-type-token-id="33554441" />
     <entry java-name="crc647ff6a91323cfcbbf/MainApplication" managed-name="SistemaConversorUI.Maui.MainApplication, SistemaConversorUI.Maui" managed-type-token-id="33554442" />

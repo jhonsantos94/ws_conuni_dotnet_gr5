@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\modelos\\constantesred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\modelos\\constantesred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\vistas\\conversorinteligente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\vistas\\conversorinteligente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\vistas\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\vistas\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\adaptadores\\adaptadorconversionjavarest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\adaptadores\\adaptadorconversionjavarest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,10 +42,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\adaptadores\\adaptadorconversiondotnetrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\adaptadores\\adaptadorconversiondotnetrest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\modelos\\constantesred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\modelos\\constantesred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\vistas\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,14 +74,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\vistas\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\vistas\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\vistas\\conversorinteligente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|solutionrelative:sistemaconversorui.shared\\vistas\\conversorinteligente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DFFEED6-1C3C-339F-E58B-C581A55BEEAA}|SistemaConversorUI.Shared\\SistemaConversorUI.Shared.csproj|c:\\users\\ariel\\pry\\wsconunidotnetgr5\\04.cliesc\\sistemaconversorui\\sistemaconversorui.shared\\servicios\\estadoaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,37 +123,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AdaptadorConversionJavaRest.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionJavaRest.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionJavaRest.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionJavaRest.cs",
               "RelativeToolTip": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionJavaRest.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T22:28:07.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AdaptadorAutenticacionJavaRest.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaRest.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaRest.cs",
-              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaRest.cs*",
-              "RelativeToolTip": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaRest.cs*",
+              "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaRest.cs",
+              "RelativeToolTip": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaRest.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T22:26:42.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T22:26:42.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Vistas\\MainLayout.razor",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Vistas\\MainLayout.razor",
@@ -161,12 +160,11 @@
               "RelativeToolTip": "SistemaConversorUI.Shared\\Vistas\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-27T20:37:25.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T20:37:25.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AdaptadorAutenticacionDotNetSoap.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionDotNetSoap.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionDotNetSoap.cs",
@@ -178,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIWEB\\SistemaConversorUI.Web\\SistemaConversorUI.Web\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\04.CLIWEB\\SistemaConversorUI.Web\\SistemaConversorUI.Web\\Program.cs",
@@ -186,12 +184,11 @@
               "RelativeToolTip": "..\\..\\04.CLIWEB\\SistemaConversorUI.Web\\SistemaConversorUI.Web\\Program.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAACQAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T04:51:03.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T04:51:03.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIWEB\\SistemaConversorUI.Web\\SistemaConversorUI.Web.Client\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\04.CLIWEB\\SistemaConversorUI.Web\\SistemaConversorUI.Web.Client\\Program.cs",
@@ -199,12 +196,11 @@
               "RelativeToolTip": "..\\..\\04.CLIWEB\\SistemaConversorUI.Web\\SistemaConversorUI.Web.Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T04:50:54.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T04:50:54.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AdaptadorConversionDotNetRest.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionDotNetRest.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionDotNetRest.cs",
@@ -212,12 +208,11 @@
               "RelativeToolTip": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionDotNetRest.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T04:32:38.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T04:32:38.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIMOV\\SistemaConversorUI.Maui\\MauiProgram.cs",
               "RelativeDocumentMoniker": "..\\..\\04.CLIMOV\\SistemaConversorUI.Maui\\MauiProgram.cs",
@@ -225,12 +220,11 @@
               "RelativeToolTip": "..\\..\\04.CLIMOV\\SistemaConversorUI.Maui\\MauiProgram.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T04:25:34.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T04:25:34.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AdaptadorAutenticacionDotNetRest.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionDotNetRest.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionDotNetRest.cs",
@@ -238,12 +232,11 @@
               "RelativeToolTip": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionDotNetRest.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAowDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T04:09:09.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T04:09:09.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Component1.razor",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Component1.razor",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Component1.razor",
@@ -255,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CambiarContrasenia.razor",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Vistas\\CambiarContrasenia.razor",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Vistas\\CambiarContrasenia.razor",
@@ -267,15 +260,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "ConversorInteligente.razor",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Vistas\\ConversorInteligente.razor",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Vistas\\ConversorInteligente.razor",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Vistas\\ConversorInteligente.razor",
               "RelativeToolTip": "SistemaConversorUI.Shared\\Vistas\\ConversorInteligente.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-23T04:36:22.297Z"
+              "WhenOpened": "2026-04-23T04:36:22.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -291,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IAdaptadorAutenticacion.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Interfaces\\IAdaptadorAutenticacion.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Interfaces\\IAdaptadorAutenticacion.cs",
@@ -303,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AdaptadorAutenticacionJavaSoap.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaSoap.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorAutenticacionJavaSoap.cs",
@@ -327,20 +321,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "ConstantesRed.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Modelos\\ConstantesRed.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Modelos\\ConstantesRed.cs",
               "ToolTip": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Modelos\\ConstantesRed.cs",
               "RelativeToolTip": "SistemaConversorUI.Shared\\Modelos\\ConstantesRed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T02:00:06.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Vistas\\Index.razor",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Vistas\\Index.razor",
@@ -348,7 +342,8 @@
               "RelativeToolTip": "SistemaConversorUI.Shared\\Vistas\\Index.razor",
               "ViewState": "AgIAADYAAAAAAAAAAAAAACoAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T00:58:10.559Z"
+              "WhenOpened": "2026-04-21T00:58:10.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -424,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "AdaptadorConversionDotNetSoap.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionDotNetSoap.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadorConversionDotNetSoap.cs",
@@ -448,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AdaptadoresMock.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Adaptadores\\AdaptadoresMock.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Adaptadores\\AdaptadoresMock.cs",
@@ -472,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FabricaEstrategiaBackend.cs",
               "DocumentMoniker": "C:\\Users\\ariel\\PRY\\WSConUniDotNetGR5\\04.CLIESC\\SistemaConversorUI\\SistemaConversorUI.Shared\\Servicios\\FabricaEstrategiaBackend.cs",
               "RelativeDocumentMoniker": "SistemaConversorUI.Shared\\Servicios\\FabricaEstrategiaBackend.cs",
@@ -480,8 +475,7 @@
               "RelativeToolTip": "SistemaConversorUI.Shared\\Servicios\\FabricaEstrategiaBackend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T00:41:52.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-21T00:41:52.694Z"
             },
             {
               "$type": "Document",

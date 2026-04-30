@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaConversorUI.Maui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+915f4146bfd051cf7ee3f1c5781bcd64d9a6e8ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+408ce6c12e7783b09e32e64da7a986e6530dc8b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaConversorUI.Maui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaConversorUI.Maui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
