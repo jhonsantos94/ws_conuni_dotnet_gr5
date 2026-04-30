@@ -1,5 +1,0 @@
-wwwroot\background.png
-wwwroot\css\espe-styles.css
-wwwroot\exampleJsInterop.js
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIESC\SistemaConversorUI\SistemaConversorUI.Shared\wwwroot\exampleJsInterop.js
-C:\Users\ariel\PRY\WSConUniDotNetGR5\04.CLIESC\SistemaConversorUI\SistemaConversorUI.Shared\wwwroot\css\espe-styles.css

@@ -1,7 +1,0 @@
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\bin\ServidorDotNetIIS.dll.config
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\bin\ServidorDotNetIIS.dll
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\bin\ServidorDotNetIIS.pdb
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\obj\Debug\ServidorDotNetIIS.csproj.AssemblyReference.cache
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\obj\Debug\ServidorDotNetIIS.csproj.CoreCompileInputs.cache
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\obj\Debug\ServidorDotNetIIS.dll
-C:\proyectos_arqui\taller1\WS_ConUni_DotNet_GR5\04. SERVIDOR\ServidorDotNetIIS\obj\Debug\ServidorDotNetIIS.pdb
