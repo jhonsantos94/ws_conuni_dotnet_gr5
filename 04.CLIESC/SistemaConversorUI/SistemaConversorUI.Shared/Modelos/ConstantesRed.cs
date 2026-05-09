@@ -2,7 +2,7 @@
 
 public static class ConstantesRed
 {
-    public const string IP_WEB_SERVICES = "10.40.12.74";
+    public const string IP_WEB_SERVICES = "192.168.100.19";
     //public const string IP_WEB_SERVICES = "localhost";
 
     public const string UrlJavaSoap = $"http://{IP_WEB_SERVICES}:8080/04.SERVIDOR/WSConversorUnidades";
