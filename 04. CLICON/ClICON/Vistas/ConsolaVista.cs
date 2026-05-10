@@ -60,7 +60,8 @@ namespace ClICON.Vistas
             Console.WriteLine("1. Convertir Longitud");
             Console.WriteLine("2. Convertir Masa");
             Console.WriteLine("3. Convertir Temperatura");
-            Console.WriteLine("4. Salir");
+            Console.WriteLine("4. Cambiar Contraseña");
+            Console.WriteLine("5. Salir");
             return PedirDato("Seleccione una opción");
         }
         public void MensajeBienvenida()

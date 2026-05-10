@@ -19,6 +19,9 @@ namespace WSMonsterReference
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/WSConversorUnidades/login", ReplyAction="http://tempuri.org/WSConversorUnidades/loginResponse")]
         System.Threading.Tasks.Task<string> loginAsync(string usuario, string contrasenia);
         
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/WSConversorUnidades/cambiarContrasenia", ReplyAction="http://tempuri.org/WSConversorUnidades/cambiarContraseniaResponse")]
+        System.Threading.Tasks.Task<bool> cambiarContraseniaAsync(string contraseniaActual, string nuevaContrasenia);
+        
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/WSConversorUnidades/convertirLongitud", ReplyAction="http://tempuri.org/WSConversorUnidades/convertirLongitudResponse")]
         System.Threading.Tasks.Task<double> convertirLongitudAsync(double valor, string unidadInicial, string unidadFinal);
         
@@ -82,6 +85,11 @@ namespace WSMonsterReference
         public System.Threading.Tasks.Task<string> loginAsync(string usuario, string contrasenia)
         {
             return base.Channel.loginAsync(usuario, contrasenia);
+        }
+        
+        public System.Threading.Tasks.Task<bool> cambiarContraseniaAsync(string contraseniaActual, string nuevaContrasenia)
+        {
+            return base.Channel.cambiarContraseniaAsync(contraseniaActual, nuevaContrasenia);
         }
         
         public System.Threading.Tasks.Task<double> convertirLongitudAsync(double valor, string unidadInicial, string unidadFinal)

@@ -41,6 +41,18 @@ namespace ClICON.Modelos
             }
         }
 
+        public async Task<bool> CambiarContraseniaAsync(string contraseniaActual, string nuevaContrasenia)
+        {
+            // Nota: Revisa si tu referencia de Visual Studio generó el método con mayúscula o minúscula.
+            // Usualmente es CambiarContraseniaAsync o cambiarContraseniaAsync.
+            return await EjecutarConTokenAsync(() => _clienteSoap.cambiarContraseniaAsync(contraseniaActual, nuevaContrasenia));
+        }
+
+        public void CerrarSesion()
+        {
+            Token = null;
+        }
+
         public async Task<double> ConvertirLongitudAsync(double valor, string origen, string destino)
         {
             return await EjecutarConTokenAsync(() => _clienteSoap.convertirLongitudAsync(valor, origen, destino));
